@@ -1,5 +1,7 @@
 # docker-run-rs
 
+[![CI Status](https://github.com/luca-rand/docker-run-rs//workflows/ci/badge.svg)](https://github.com/luca-rand/docker-run/actions)
+
 Run run-rs in a docker container. run-rs is a zero-config MongoDB runner. Starts a replica set with no non-node dependencies, not even MongoDB.
 
 ## Use as a service in GitHub Actions
